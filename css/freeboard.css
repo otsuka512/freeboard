@@ -1170,6 +1170,7 @@ header h1 {
 	background-color: #313131;
 	text-align: center;
 	cursor: pointer;
+	opacity: 0.1;
 }
 
 #toggle-header-icon {
